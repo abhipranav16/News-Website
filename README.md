@@ -6,16 +6,14 @@ This repository contains the code for a news website project built using JavaScr
 
 - Display a list of news articles from different sources.
 - Allow users to search for specific articles or filter them based on categories.
-- Show detailed information about each article, including the title, author, date, and content.
+- Show detailed information about each article, including the title, date, and content.
 - Provide a responsive and user-friendly interface for easy navigation.
-- Support sharing articles via social media platforms.
-- Allow users to save articles for future reference.
 
 ## Technologies Used
 
 The project is primarily built using the following technologies:
 
-- JavaScript: Used to fetch data from APIs, manipulate the DOM, and implement various functionalities.
+- JavaScript: Used to fetch data from APIs and implement various functionalities.
 - HTML: Provides the structure and layout for the website.
 - CSS: Used to style the website and make it visually appealing.
 - News APIs: Utilized to fetch news articles from different sources.
