@@ -24,4 +24,7 @@ The project does not require any specific configuration. However, if you wish to
 
 - API_KEY: If you have your own API key for the news API, you can replace the existing key with yours to access the API.
 
+## Website Preview
+![Image Description](NewsWeb.png)
+
 
